@@ -1,6 +1,8 @@
 # PirnatEco
 Towards Sustainable Deep Learning for Wireless Fingerprinting Localization
 
+Model PirnatEco can be found in the file called PirnatEco. The whole code needed to run the model, link to the dataset CTW2019 and the model is in WholeCode.
+
 ### Citation
 
 If you are using our model, citation of [Towards Sustainable Deep Learning for Wireless Fingerprinting Localization](http://arxiv.org/abs/2201.09071) would be greatly appreciated.
